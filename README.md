@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate **Data Analyst** skilled in turning raw d
 - 🧠 **Machine Learning (Basics)**: Scikit-learn, Predictive Modelling  
 - 🗃️ **Database Management**: SQL, MySQL  
 - 🔎 **Problem Solving**: Exploratory Data Analysis (EDA), Business Intelligence  
-- 🧰 **Tools & Platforms**: Jupyter Notebook, VS Code, GitHub
+- 🧰 **Tools & Platforms**:  GitHub , Linkdin
 
 ---
 
