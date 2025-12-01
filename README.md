@@ -29,7 +29,7 @@ Welcome to my GitHub! I'm a passionate **Data Analyst** skilled in turning raw d
 ---
 
 ### 📫 Let's Connect:
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/britto-salamon-j)
 - 📧 Email: brittosalamon@gmail.com
 
 Thanks for stopping by! Feel free to explore my projects, give feedback, or collaborate 🤝  
