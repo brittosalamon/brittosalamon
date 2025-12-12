@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a passionate **Data Analyst** skilled in turning raw d
 
 - 📊 **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn  
 - 🧮 **Data Analysis**: Python, Excel, Pandas, NumPy  
-- 🧠 **Machine Learning (Basics)**: Scikit-learn, Predictive Modelling  
+  
 - 🗃️ **Database Management**: SQL, MySQL  
 - 🔎 **Problem Solving**: Exploratory Data Analysis (EDA), Business Intelligence  
 - 🧰 **Tools & Platforms**:  GitHub , Linkdin
